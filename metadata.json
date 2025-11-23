@@ -1,0 +1,7 @@
+{
+  "name": "Quran WordMaster",
+  "description": "A comprehensive Quranic vocabulary learning tool featuring a word bank, AI-powered insights, spaced repetition quizzes, and a standby learning mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
